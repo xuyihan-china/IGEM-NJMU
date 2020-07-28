@@ -1,0 +1,75 @@
+{{NJMU-China}}
+{{NJMU-China/loading2}}
+{{Template:NJMU-China/css/cover.css}}
+{{Template:NJMU-China/css/bootstrap.min}}
+{{NJMU-China/html/nav}}
+{{Template:NJMU-China/css/course.css}}
+{{Template:NJMU-China/css/swiperBox.css}}
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+     
+    </style>
+</head>
+<body>
+     <div style="position: relative;">
+    <img src="https://2020.igem.org/wiki/images/c/c1/T--NJMU-China--earth01.jpg" alt="icon" style="width: 100%; padding-top:0px;margin-top: -13px;">
+    <h1 style="position: absolute; top: 70% ; left: 50%; font-weight: bold; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: cornsilk; ">Had a voice , had a voice, but I could not talk</h1>
+  </div>
+      <img src="https://2020.igem.org/wiki/images/f/f8/T--NJMU-China--background.jpg" alt="not find" style="width: 100%;">
+      <div class="blog-slider">
+  <div class="blog-slider__wrp swiper-wrapper">
+    <div class="blog-slider__item swiper-slide">
+      <div class="blog-slider__img">
+        
+        <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759872/kuldar-kalvik-799168-unsplash.jpg" alt="">
+      </div>
+      <div class="blog-slider__content">
+        <span class="blog-slider__code">24 July 2020</span>
+        <div class="blog-slider__title">Our Team</div>
+        <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi? </div>
+        <a href="#" class="blog-slider__button">READ MORE</a>
+      </div>
+    </div>
+    <div class="blog-slider__item swiper-slide">
+      <div class="blog-slider__img">
+        <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/jason-leung-798979-unsplash.jpg" alt="">
+      </div>
+      <div class="blog-slider__content">
+        <span class="blog-slider__code">26 December 2019</span>
+        <div class="blog-slider__title">Our project</div>
+        <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi?</div>
+        <a href="#" class="blog-slider__button">READ MORE</a>
+      </div>
+    </div>
+    
+    <div class="blog-slider__item swiper-slide">
+      <div class="blog-slider__img">
+        <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/alessandro-capuzzi-799180-unsplash.jpg" alt="">
+      </div>
+      <div class="blog-slider__content">
+        <span class="blog-slider__code">20 August 2020</span>
+        <div class="blog-slider__title">Our Model</div>
+        <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi?</div>
+        <a href="#" class="blog-slider__button">READ MORE</a>
+      </div>
+    </div>
+    
+  </div>
+  <div class="blog-slider__pagination"></div>
+</div>
+    
+   
+  
+</body>
+     <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/jquery?action=raw&ctype=text/javascript"></script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/bootstrap?action=raw&ctype=text/javascript"></script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/swiper?action=raw&ctype=text/javascript">
+</script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/swiperBoxs?action=raw&ctype=text/javascript">
+</script>
+</html>

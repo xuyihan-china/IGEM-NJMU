@@ -1,0 +1,31 @@
+<header>
+  <h1>Contribution</h1>
+</header>
+<section class="main">
+<a class="arrow-wrap" href="#content">
+<span class="arrow"></span>
+<!--<span class="hint">scroll</span>-->
+</a>
+  
+  <div class="content" id="content">
+    <h1> Overview</h1>
+    <p>
+     
+   &nbsp&nbsp&nbsp&nbsp As new members of the iGEM community, we pursue collaborations actively with other teams nationwide. This year, we collaborated and interacted with 6 teams from the different areas of China. As a new team, we have received much generous help and practical advice on our project, as a competent unity, we responded to other collaboration invitation enthusiastically and tried our best to contribute to the iGEM community. Through these interactions and collaborations, we have not only improved our project but also gained valuable friendship.
+
+   We also participated in several meetups in different scales domestically, including Beijing iGEM Undergrads Meetup hosted by BIT-China and CCiC hosted by the Institute of Synthetic Biology CAS SIAT in Shenzhen.
+    </p>
+    
+    <h2>
+      Beijing iGEM Undergrads Meetup
+    </h2>
+    <pre>    
+    </pre>
+    <h2>The 6th Conference of China iGEMer Community</h2>
+    <p>Be sure to use the correct vendor-prefixes</p>
+    <pre>
+    </pre>
+    <p>
+    </p>
+  </div>
+</section>

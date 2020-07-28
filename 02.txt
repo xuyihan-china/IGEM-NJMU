@@ -1,0 +1,223 @@
+{{NJMU-China}}
+{{NJMU-China/loading2}}
+{{Template:NJMU-China/css/cover.css}}
+{{Template:NJMU-China/css/bootstrap.min}}
+{{Template:NJMU-China/test2}}
+{{NJMU-China/html/nav}}
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    
+</head>
+<body>
+    <img src="https://2020.igem.org/wiki/images/f/f1/T--NJMU-China--testpage.png" alt="icon" style="width: 100%;padding-top:50px;height:600px;">
+      <h1>³åÑ¼£¬ÄÏÒ½´ó£¡£¡£¡ </h1>
+      <h2>This page is under consturction</h2>
+      <img src="https://2020.igem.org/wiki/images/f/f8/T--NJMU-China--background.jpg" alt="not find" style="width: 100%;">
+    </div>
+    
+    <script type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/jquery?action=raw&ctype=text/javascript"></script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/bootstrap?action=raw&ctype=text/javascript"></script>
+    
+</body>
+</html>
+  /* .navbar-default {
+  background-color: #9b59b6;
+  border-color: #8e44ad;
+}
+.navbar-default .navbar-brand {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ecdbff;
+}
+.navbar-default .navbar-text {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ecdbff;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+  background-color: #9b59b6;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+  color: #ecdbff;
+  background-color: #8e44ad;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li.divider {
+  background-color: #8e44ad;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+  color: #ecdbff;
+  background-color: #8e44ad;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ecdbff;
+  background-color: #8e44ad;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #ecdbff;
+  background-color: #8e44ad;
+}
+.navbar-default .navbar-toggle {
+  border-color: #8e44ad;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #8e44ad;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ecf0f1;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+  color: #ecdbff;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ecdbff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ecdbff;
+    background-color: #8e44ad;
+  }
+}  */
+  /* navbar-default .navbar-brand {
+    color: #48c1df;
+  }
+
+  .navbar-default .navbar-brand:hover,
+  .navbar-default .navbar-brand:focus {
+    color: #eaedee;
+  }
+
+  .navbar-default .navbar-text {
+    color: #48c1df;
+  }
+
+  .navbar-default .navbar-nav>li>a {
+    color: #48c1df;
+  }
+
+  .navbar-default .navbar-nav>li>a:hover,
+  .navbar-default .navbar-nav>li>a:focus {
+    color: #eaedee;
+  }
+
+  .navbar-default .navbar-nav>li>.dropdown-menu {
+    background-color: #3a3938;
+  }
+
+  .navbar-default .navbar-nav>li>.dropdown-menu>li>a {
+    color: #48c1df;
+  }
+
+  .navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover,
+  .navbar-default .navbar-nav>li>.dropdown-menu>li>a:focus {
+    color: #eaedee;
+    background-color: #65706f;
+  }
+
+  .navbar-default .navbar-nav>li>.dropdown-menu>li.divider {
+    background-color: #65706f;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
+  .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+    color: #eaedee;
+    background-color: #65706f;
+  }
+
+  .navbar-default .navbar-nav>.active>a,
+  .navbar-default .navbar-nav>.active>a:hover,
+  .navbar-default .navbar-nav>.active>a:focus {
+    color: #eaedee;
+    background-color: #65706f;
+  }
+
+  .navbar-default .navbar-nav>.open>a,
+  .navbar-default .navbar-nav>.open>a:hover,
+  .navbar-default .navbar-nav>.open>a:focus {
+    color: #eaedee;
+    background-color: #65706f;
+  }
+
+  .navbar-default .navbar-toggle {
+    border-color: #65706f;
+  }
+
+  .navbar-default .navbar-toggle:hover,
+  .navbar-default .navbar-toggle:focus {
+    background-color: #65706f;
+  }
+
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #48c1df;
+  }
+
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    border-color: #48c1df;
+  }
+
+  .navbar-default .navbar-link {
+    color: #48c1df;
+  }
+
+  .navbar-default .navbar-link:hover {
+    color: #eaedee;
+  }
+
+  @media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+      color: #48c1df;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+      color: #eaedee;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
+      color: #eaedee;
+      background-color: #65706f;
+    } */
+  
+
+  /* wailai */
+
+  /*  */

@@ -1,0 +1,240 @@
+{{NJMU-China}}
+{{NJMU-China/loading2}}
+{{Template:NJMU-China/css/cover.css}}
+{{Template:NJMU-China/css/bootstrap.min}}
+{{NJMU-China/html/nav}}
+{{Template:NJMU-China/css/course.css}}
+{{Template:NJMU-China/css/swiperBox.css}}
+{{Template:NJMU-China/css/normalize.css}}
+{{Template:NJMU-China/css/splitting.css}}
+{{Template:NJMU-China/css/watch.css}}
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+     
+    </style>
+</head>
+<body>
+<!--整个首页的header 放视频什么的 -->
+
+<section class="intro-section">
+  <h1 class="intro-heading">Watch</h1>
+
+  <p>the NJMU's perfect project</p>
+  <h2> 这里放视频 </h2>
+  <!-- -->
+</section>
+
+<!--滚动开始 -->
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2020.igem.org/wiki/images/c/c1/T--NJMU-China--earth01.jpg" /></figure>
+  
+  <div class="content">
+    <header class="header">
+      <div class="subheading">About our project</div>
+      <h2 class="heading">We are the NJMU iGEM team.<br /> </h2>
+    </header>
+    <p class="paragraph">
+      After being bitten by an infected tick, it is necessary to start treatment as quickly as you can.The project that we decided to create is associated with ticks, which are carriers of various diseases that have serious consequences, for example, borreliosis. Ticks are very common in Russia, as well as in general in the middle zone of Eurasia. 
+    </p>
+  </div>
+</section>
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2020.igem.org/wiki/images/f/f8/T--NJMU-China--background.jpg" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">Bioinformatics</div>
+      <h2 class="heading"><br />The first part of the LymeExpress project is Bioinformatics. </h2>
+    </header>
+    <p class="paragraph">
+      It consists of searching for the conserved genome regions between different species of Borrelia and metagenomic analysis of the Ixodes microbiome for possible interference with the biosensor targets from Borrelia sp. Then the molecular type of biosensor targets will be provided.
+    </p>
+  </div>
+</section>
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2019.igem.org/wiki/images/8/81/T--CAU_China--homepage2.jpg" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">Biosensor Development</div>
+      <h2 class="heading">In this part of the project the targeting system (CRISPR-Cas) </h2>
+    </header>
+    <p class="paragraph">
+      In parallel, computer modeling of the biosensor work will be carried out. This step also contains quality check and testing.
+    </p>
+  </div>
+</section>
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2019.igem.org/wiki/images/9/97/T--CAU_China--homepage4.jpg" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">Device development</div>
+      <h2 class="heading">The last step   <br /></h2>
+    </header>
+    <p class="paragraph">
+      of LymeExpress project creating a portable spectrophotometer.Then combination of the biosensor and device will be checked and tested.
+    </p>
+  </div>
+</section>
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2019.igem.org/wiki/images/d/dd/T--CSMU_Taiwan--homepage_pandemic_.gif" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">Project Inspiration and Description</div>
+      <h2 class="heading">Not Evolved,<br />not transformed either.</h2>
+    </header>
+    <p class="paragraph">
+      Each year around 500,000 Lyme disease cases caused by tick-borne Borrelia spp. are reported worldwide. Prompt detection of Borrelia infection is crucial for effective treatment. Quick point-of-care detection of the pathogens in an extracted tick is therefore important.
+    </p>
+  </div>
+</section>
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://images.unsplash.com/photo-1595732390070-a1eca6d91289?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">Statistics</div>
+      <h2 class="heading">Lyme Borreliosis is  <br />the most common tick-borne disease</h2>
+    </header>
+    <p class="paragraph">
+      in both North America and northern Eurasia (Jones, 2009; Nelson et al., 2015). The risk areas coincide with the habitats of the vectors, ticks of Ixodes ricinus species complex (Stanek et al., 2012)⁠.
+    </p>
+  </div>
+</section>
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://images.unsplash.com/photo-1595776430819-9aa35f06830b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">Wet lab</div>
+      <h2 class="heading">basis of the biosensor<br />not transformed either.</h2>
+    </header>
+    <p class="paragraph">
+      we performed a series of ‘wet’ laboratory experiments. We focused on working with split β-lactamase fused with dCas9 from Streptococcus pyogenes.
+    </p>
+  </div>
+</section>
+
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2019.igem.org/wiki/images/8/83/T--GENAS_China--parts_overview_banner.jpg" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">All-Old Techniques</div>
+      <h2 class="heading">Not Evolved,<br />not transformed either.</h2>
+    </header>
+    <p class="paragraph">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum nisi illum rem recusandae. Tempore consequuntur nihil cumque quis nam deserunt earum atque et ullam facere accusamus cum natus, autem numquam.
+    </p>
+  </div>
+</section>
+
+
+
+<section class="content-section" data-scroll>
+  <figure class="figure"><img src="https://2019.igem.org/wiki/images/f/f0/T--GENAS_China--relay_animation_lowres.gif" /></figure>
+  <div class="content">
+    <header class="header">
+      <div class="subheading">All-Old Techniques</div>
+      <h2 class="heading">Not Evolved,<br />not transformed either.</h2>
+    </header>
+    <p class="paragraph">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum nisi illum rem recusandae. Tempore consequuntur nihil cumque quis nam deserunt earum atque et ullam facere accusamus cum natus, autem numquam.
+    </p>
+  </div>
+</section>
+  
+<!--滚动结束 -->
+
+<!-- slider 组件-->
+
+      <div class="blog-slider">
+  <div class="blog-slider__wrp swiper-wrapper">
+    <div class="blog-slider__item swiper-slide">
+      <div class="blog-slider__img">
+        
+        <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759872/kuldar-kalvik-799168-unsplash.jpg" alt="">
+      </div>
+      <div class="blog-slider__content">
+        <span class="blog-slider__code">24 July 2020</span>
+        <div class="blog-slider__title">Our Team</div>
+        <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi? </div>
+        <a href="#" class="blog-slider__button">READ MORE</a>
+      </div>
+    </div>
+    <div class="blog-slider__item swiper-slide">
+      <div class="blog-slider__img">
+        <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/jason-leung-798979-unsplash.jpg" alt="">
+      </div>
+      <div class="blog-slider__content">
+        <span class="blog-slider__code">26 December 2019</span>
+        <div class="blog-slider__title">Our project</div>
+        <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi?</div>
+        <a href="#" class="blog-slider__button">READ MORE</a>
+      </div>
+    </div>
+    
+    <div class="blog-slider__item swiper-slide">
+      <div class="blog-slider__img">
+        <img src="https://res.cloudinary.com/muhammederdem/image/upload/v1535759871/alessandro-capuzzi-799180-unsplash.jpg" alt="">
+      </div>
+      <div class="blog-slider__content">
+        <span class="blog-slider__code">20 August 2020</span>
+        <div class="blog-slider__title">Our Model</div>
+        <div class="blog-slider__text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae voluptate repellendus magni illo ea animi?</div>
+        <a href="#" class="blog-slider__button">READ MORE</a>
+      </div>
+    </div>
+    
+  </div>
+  <div class="blog-slider__pagination"></div>
+</div>
+    
+   <!-- slider 结束-->
+  
+</body>
+<!--jquery 引入 -->
+
+     <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/jquery?action=raw&ctype=text/javascript"></script>
+
+<!-- bootstrap 引入-->
+
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/bootstrap?action=raw&ctype=text/javascript"></script>
+
+<!-- swiper 组件 让滚动顺滑-->
+
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/swiper?action=raw&ctype=text/javascript">
+</script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/swiperBoxs?action=raw&ctype=text/javascript">
+</script>
+
+<!-- 沉浸体验 的组件 -->
+
+    
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/pptView?action=raw&ctype=text/javascript">
+</script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/spliting?action=raw&ctype=text/javascript">
+</script>
+    <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/scrollout?action=raw&ctype=text/javascript">
+    </script>
+<-- 自己的js 代码-->
+        <script  type="text/javascript" src="https://2020.igem.org/Template:NJMU-China/watch?action=raw&ctype=text/javascript">
+</script>
+    
+
+</html>
